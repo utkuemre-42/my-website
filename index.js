@@ -1,31 +1,3 @@
-/* Please ❤ this and follow me if you like it! */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 class Dots {
 	constructor(width, height, spacing) {
@@ -572,9 +544,3 @@ loop();
 
 
 // Working with credits
-
-var cpCreditsUrl = "https://codepen.io/dievardump/details/pyOMeN";
-var cpCreditsTitle = "Circuits";
-var cpCreditsTwitter = document.getElementById("js-tweet-this");
-cpCreditsTwitter.href = "https://twitter.com/intent/tweet?text=" + encodeURI(cpCreditsTitle) + "&url=" + encodeURI(cpCreditsUrl) + "&via=dievardump&related=PickJBennett";
-cpCreditsTwitter.innerHTML += "Tweet This Pen";
